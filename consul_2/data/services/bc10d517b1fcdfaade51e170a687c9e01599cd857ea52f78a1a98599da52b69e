@@ -1,0 +1,1 @@
+{"Token":"your_master_token_here","Service":{"ID":"ranjith-v1-final-5401","Service":"b","Tags":["Courses","School"],"Address":"http://10.20.200.122","Meta":null,"Port":5401,"Weights":{"Passing":1,"Warning":1},"EnableTagOverride":false,"Proxy":{"Mode":"","MeshGateway":{},"Expose":{}},"Connect":{},"PeerName":"","CreateIndex":0,"ModifyIndex":0},"Source":"remote"}

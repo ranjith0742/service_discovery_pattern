@@ -1,0 +1,1 @@
+{"Token":"","Service":{"ID":"ranjith-v1-final-5000","Service":"school","Tags":["Students","Courses","School"],"Address":"http://localhost","Meta":null,"Port":5000,"Weights":{"Passing":1,"Warning":1},"EnableTagOverride":false,"Proxy":{"Mode":"","MeshGateway":{},"Expose":{}},"Connect":{},"PeerName":"","CreateIndex":0,"ModifyIndex":0},"Source":"remote"}

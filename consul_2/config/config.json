@@ -1,0 +1,30 @@
+{
+	"server": false,
+	"bootstrap": false,
+	"data_dir": "F:\\Softwares\\consul_2\\data",
+	"log_level": "INFO",
+	"datacenter": "data_center_name",
+	"encrypt": "u4+YYqd6FjKqA8CmFFpPcA==",
+	"ui_config": {
+		"enabled": true
+	},
+	"ports": {
+		"http": 8500,
+		"dns": 8601
+	},
+	"start_join": [
+		"10.201.214.200:8500"
+	],
+	"bind_addr": "0.0.0.0",
+	"client_addr": "0.0.0.0",
+	"advertise_addr": "10.20.200.122",
+	"log_file": "F:\\Softwares\\consul_2\\config\\consul.log",
+	"connect": {
+		"enabled" : true
+	},
+	"addresses": {
+		"grpc" : "0.0.0.0",
+		"https" : "0.0.0.0",
+		"dns" : "0.0.0.0"
+	}
+}

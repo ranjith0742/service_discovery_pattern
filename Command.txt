@@ -1,0 +1,20 @@
+Command to Create Consule as a Service:
+    
+	sc.exe create "Consul" binPath= "F:\Softwares\consul\Consul.exe agent -config-dir=F:\Softwares\consul" start= auto
+	
+Step 1 :
+	Got o consul Folder
+	cd folder path
+
+step 2 : Reference ( https://www.youtube.com/watch?v=PSFbH2GScNg )
+	run the command to start the consule in development mode
+	
+	Dev : 
+		consul agent -dev -dns-port=4205
+		
+	Production :
+		consul.exe agent -server -bootstrap -config-file="config.json" -dns-port=4205
+		
+	As a Windows Service:
+	sc.exe create "Consul_app" binPath= "F:\Softwares\consul\Consul.exe agent -config-dir=F:\Softwares\consul\config" -dns-port=4205 start= auto
+	sc.exe create “Consul-service” binPath= "F:\Softwares\consul\Consul.exe agent -config-dir F:\Softwares\consul\config” DisplayName= “Consul-service" start= auto

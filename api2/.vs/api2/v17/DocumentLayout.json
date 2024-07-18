@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\consulinfra\\consulconsumptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\consulinfra\\consulconsumptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\consulinfra\\consulregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\consulinfra\\consulregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\consulinfra\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\consulinfra\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\adf2590e76be71f7b25231283d7576f9627b9d814f5b397e01747ff1e8ba4c42\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|c:\\users\\ranjith.natarajan\\source\\repos\\api2\\api2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{713CBE30-D2BA-49DF-A3FA-6250C4C03F31}|api2\\api2.csproj|solutionrelative:api2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\670b9678ad7931323fcedecee4c58cb5e8e3a62a7bb4b3591cadd0bfcd28f7a5\\src\\Hosting\\Hosting\\src\\GenericHost\\GenericWebHostedService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\ee9ee54fa3f7a7222e120f1280ee75448323d0fdf1d40e010343aa7274fb8b5a\\ThrowHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\47c71511270f8146735be95daf4658869d1e3759d4d7a99216b94b8b1621cc7d\\Uri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "api2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\WeatherForecast.cs",
+              "RelativeToolTip": "api2\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:43:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\appsettings.json",
+              "RelativeDocumentMoniker": "api2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\appsettings.json",
+              "RelativeToolTip": "api2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T07:43:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Startup.cs",
+              "RelativeDocumentMoniker": "api2\\Startup.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Startup.cs",
+              "RelativeToolTip": "api2\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:39:12.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "api2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "api2\\Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwB4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:28:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsulConsumptionService.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulConsumptionService.cs",
+              "RelativeDocumentMoniker": "api2\\ConsulInfra\\ConsulConsumptionService.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulConsumptionService.cs",
+              "RelativeToolTip": "api2\\ConsulInfra\\ConsulConsumptionService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:21:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\adf2590e76be71f7b25231283d7576f9627b9d814f5b397e01747ff1e8ba4c42\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\adf2590e76be71f7b25231283d7576f9627b9d814f5b397e01747ff1e8ba4c42\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\adf2590e76be71f7b25231283d7576f9627b9d814f5b397e01747ff1e8ba4c42\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\adf2590e76be71f7b25231283d7576f9627b9d814f5b397e01747ff1e8ba4c42\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAEwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:30:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Program.cs",
+              "RelativeDocumentMoniker": "api2\\Program.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Program.cs",
+              "RelativeToolTip": "api2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:18:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "api2\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "api2\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:17:20.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "api2\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "api2\\Controllers\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:08:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsulRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulRegistrationService.cs",
+              "RelativeDocumentMoniker": "api2\\ConsulInfra\\ConsulRegistrationService.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulRegistrationService.cs",
+              "RelativeToolTip": "api2\\ConsulInfra\\ConsulRegistrationService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvz8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:44:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThrowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\ee9ee54fa3f7a7222e120f1280ee75448323d0fdf1d40e010343aa7274fb8b5a\\ThrowHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee9ee54fa3f7a7222e120f1280ee75448323d0fdf1d40e010343aa7274fb8b5a\\ThrowHelper.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\ee9ee54fa3f7a7222e120f1280ee75448323d0fdf1d40e010343aa7274fb8b5a\\ThrowHelper.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee9ee54fa3f7a7222e120f1280ee75448323d0fdf1d40e010343aa7274fb8b5a\\ThrowHelper.cs [Read Only]",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:47:39.141Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Uri.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\47c71511270f8146735be95daf4658869d1e3759d4d7a99216b94b8b1621cc7d\\Uri.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\47c71511270f8146735be95daf4658869d1e3759d4d7a99216b94b8b1621cc7d\\Uri.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\Temp\\.vsdbgsrc\\47c71511270f8146735be95daf4658869d1e3759d4d7a99216b94b8b1621cc7d\\Uri.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\47c71511270f8146735be95daf4658869d1e3759d4d7a99216b94b8b1621cc7d\\Uri.cs",
+              "ViewState": "AQIAAB4OAAAAAAAAAAAEwDUOAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:51:12.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsulConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulConfig.cs",
+              "RelativeDocumentMoniker": "api2\\ConsulInfra\\ConsulConfig.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\ConsulInfra\\ConsulConfig.cs",
+              "RelativeToolTip": "api2\\ConsulInfra\\ConsulConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:42:51.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericWebHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\670b9678ad7931323fcedecee4c58cb5e8e3a62a7bb4b3591cadd0bfcd28f7a5\\src\\Hosting\\Hosting\\src\\GenericHost\\GenericWebHostedService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\670b9678ad7931323fcedecee4c58cb5e8e3a62a7bb4b3591cadd0bfcd28f7a5\\src\\Hosting\\Hosting\\src\\GenericHost\\GenericWebHostedService.cs",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\AppData\\Local\\SourceServer\\670b9678ad7931323fcedecee4c58cb5e8e3a62a7bb4b3591cadd0bfcd28f7a5\\src\\Hosting\\Hosting\\src\\GenericHost\\GenericWebHostedService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\670b9678ad7931323fcedecee4c58cb5e8e3a62a7bb4b3591cadd0bfcd28f7a5\\src\\Hosting\\Hosting\\src\\GenericHost\\GenericWebHostedService.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAEwHwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:04:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ranjith.natarajan\\source\\repos\\api2\\api2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T08:19:45.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
